@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12 - Datos ratones
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio13 - Correccion de examenes", "Ejercicio13 - Correccion de examenes\Ejercicio13 - Correccion de examenes.csproj", "{702BF88C-209C-46A2-9238-D4573956C06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio14 - Adivinar un numero", "Ejercicio14 - Adivinar un numero\Ejercicio14 - Adivinar un numero.csproj", "{4A216D3E-BE32-4573-8516-4D842B511EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{702BF88C-209C-46A2-9238-D4573956C06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{702BF88C-209C-46A2-9238-D4573956C06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{702BF88C-209C-46A2-9238-D4573956C06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A216D3E-BE32-4573-8516-4D842B511EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A216D3E-BE32-4573-8516-4D842B511EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A216D3E-BE32-4573-8516-4D842B511EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A216D3E-BE32-4573-8516-4D842B511EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
